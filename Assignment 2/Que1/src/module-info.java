@@ -1,0 +1,2 @@
+module que1 {
+}
